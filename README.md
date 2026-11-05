@@ -37,13 +37,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodvas&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
-</p>
----
-
 <p align="center">
   <i>Construído com Markdown e badges personalizadas.</i>
 </p>
