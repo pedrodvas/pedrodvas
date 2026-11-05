@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Engenheiro de Computação focado em Engenharia de Software e Sistemas de IA. Apaixonado por ciência, quebra cabeças e tecnologia!
+  Engenheiro de Computação focado em Engenharia de Software e Sistemas de IA na NeuralMind desde o final de 2024. Apaixonado por ciência, quebra cabeças e tecnologia!
 </p>
 
 ---
@@ -22,8 +22,8 @@
 ### 🎯 Interesses & Áreas de Estudo
 
 - 🧠 **Agentes & LLMs:** Arquitetura de gateways de IA, engenharia de prompts, pipelines de dados e interpretabilidade.
-- ⚡ **Sistemas & Performance:** Programação de baixo nível, arquiteturas de computadores e otimização de código.
 - ☁️ **Cloud Native:** Arquiteturas serverless, infraestrutura como código (IaC), microserviços e ciberssegurança.
+- ⚡ **Sistemas & Performance:** Programação de baixo nível, arquiteturas de computadores e otimização de código.
 - 🌐 **Outros Interesses:** Aprendizado de idiomas (especialmente 中文), jogos online e um ótimo 🍦sorvete🍦!
 
 ---
