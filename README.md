@@ -19,6 +19,15 @@
 
 ---
 
+### 🎯 Interesses & Áreas de Estudo
+
+- 🧠 **Agentes & LLMs:** Arquitetura de gateways de IA, engenharia de prompts, pipelines de dados e interpretabilidade.
+- ⚡ **Sistemas & Performance:** Programação de baixo nível, arquiteturas de computadores e otimização de código.
+- ☁️ **Cloud Native:** Arquiteturas serverless, infraestrutura como código (IaC), microserviços e ciberssegurança.
+- 🌐 **Outros Interesses:** Aprendizado de idiomas (especialmente 中文), jogos online e um ótimo 🍦sorvete🍦!
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
