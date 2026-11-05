@@ -48,9 +48,9 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Nome do Repo](https://github.com/pedrodvas/dsa-exercises)** | Here I study data structures and algorithms mainly through leetcode. | `Python`|
-| **[Nome do Repo](https://github.com/pedrodvas/learning-rust)** | Repository for learning rust basics and to understand the "hype" around it. | `Rust` |
-| **[Nome do Repo](https://github.com/pedrodvas/RISC-V-Assembly-MC404)** | Has labs made for mc404, where I learned assembly though RISC-V | `Python` `AWS` `Docker` |
+| **[dsa-exercises](https://github.com/pedrodvas/dsa-exercises)** | Here I study data structures and algorithms mainly through leetcode. | `Python`|
+| **[learning-rust](https://github.com/pedrodvas/learning-rust)** | Repository for learning rust basics and to understand the "hype" around it. | `Rust` |
+| **[RISC-V-Assembly-MC404](https://github.com/pedrodvas/RISC-V-Assembly-MC404)** | Has labs made for mc404, where I learned assembly though RISC-V | `RISC-V ASM` |
 
 ### 🗣️ Idiomas
 
