@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Engenheiro de Computação focado em Engenharia de Software e Sistemas de IA.
+  Engenheiro de Computação focado em Engenharia de Software e Sistemas de IA. Apaixonado por ciência, quebra cabeças e tecnologia!
 </p>
 
 ---
@@ -43,3 +43,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[Nome do Repo](https://github.com/pedrodvas/dsa-exercises)** | Here I study data structures and algorithms mainly through leetcode. | `Python`|
+| **[Nome do Repo](https://github.com/pedrodvas/learning-rust)** | Repository for learning rust basics and to understand the "hype" around it. | `Rust` |
+| **[Nome do Repo](https://github.com/pedrodvas/RISC-V-Assembly-MC404)** | Has labs made for mc404, where I learned assembly though RISC-V | `Python` `AWS` `Docker` |
+
+### 🗣️ Idiomas
+
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Fluente
+- 🇨🇳 **Mandarim (中文):** Intermediário
