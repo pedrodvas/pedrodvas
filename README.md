@@ -40,10 +40,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrodvas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="175" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrodvas&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodvas&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
 </p>
-
 ---
 
 <p align="center">
